@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Ranjith
 
 Student @ Presidency University
-- I’m currently learning Front-End Develoment and DSA
+- I have acquired skills in Front-End Development.
+- I am currently enhancing my knowledge in Data Structures and Algorithms (DSA).
 - Social Presence</br>[<img width="40" height="40" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/ranjith-s-77734825b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [<img width="40" height="40" src="https://img.icons8.com/color/48/twitter-squared.png" alt="twitter-squared"/>](https://twitter.com/ranxxthh) [<img width="40" height="40" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="instagram-new"/>](https://www.instagram.com/ranxxthh/)
 
 ### I code in
